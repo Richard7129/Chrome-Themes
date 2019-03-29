@@ -1,0 +1,75 @@
+{
+    "name": "Cobalt-Dark",
+    "version": "1.4",
+    "description": "A dark theme with a blue-tint",
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            
+        },
+        "colors": {
+            "frame": [
+                18,
+                39,
+                56
+            ],
+            "frame_inactive": [
+                18,
+                39,
+                56
+            ],
+            "toolbar": [
+                25,
+                53,
+                73
+            ],
+            "tab_text": [
+                255,
+                255,
+                255
+            ],
+            "tab_background_text": [
+                147,
+                152,
+                155
+            ],
+            "bookmark_text": [
+                147,
+                152,
+                155
+            ],
+            "ntp_background": [
+                22,
+                47,
+                66
+            ],
+            "ntp_text": [
+                147,
+                152,
+                155
+            ],
+            "ntp_link": [
+                220,
+                220,
+                220
+            ],
+            "button_background": [
+                24,
+                25,
+                255,
+                0.9
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.56,
+                0.23,
+                0.64
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
